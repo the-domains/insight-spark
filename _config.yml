@@ -1,0 +1,14 @@
+layout_spectrum: 0.25999003066681325
+typography_spectrum: 0.6199226586613804
+color:
+  brandStrength: 0.2079140276182443
+  lightness: 0.6255965309683233
+  saturation: 0.5367270004935563
+  rhythmicContrast: 0.10113452328369021
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Insight Spark
